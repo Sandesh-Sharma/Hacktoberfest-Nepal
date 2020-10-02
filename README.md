@@ -55,19 +55,19 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
-1. Star this repository and Follow me on Github [here](https://github.com/Parajulibkrm/).
+1. **Star this repository and Follow me on Github [here](https://github.com/Parajulibkrm/).**
    ![](Images/star.png)
    ![](Images/follow.png)
-2. Navigate to `myname.txt` file
+2. **Navigate to `myname.txt` file**
    ![](Images/open.png)
-3. Edit the file and insert your name.
+3. **Edit the file and insert your name.**
    ![](Images/edit.png)
-4. Now click on Propose button.
-5. ![](Images/propose.png)
-6. Create a new pull request.
+4. **Now click on Propose button.**
+   ![](Images/propose.png)
+5. **Create a new pull request.**
    ![](Images/pull%20request.png)
-7. Wait for your Pull Request to be reviewed and merged!
-8. Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)
+6. **Wait for your Pull Request to be reviewed and merged!**
+7. **Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)**
 
 > Step 2 is required to be eligible for giveaway.
 
