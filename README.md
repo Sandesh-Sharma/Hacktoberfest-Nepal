@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Parajulibkrm/Hacktoberfest-Nepal/master/hacktoberfestMeetupNepal.png)
+![](https://raw.githubusercontent.com/Parajulibkrm/Hacktoberfest-Nepal/master/Images/hacktoberfestMeetupNepal.png)
 
 <br/>
 
@@ -55,12 +55,17 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
-1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/fork).
-2. Star this repository and Follow me on Github [here](https://github.com/Parajulibkrm/).
-3. Navigate to `myname.txt` file
-4. Edit the file and insert your name.
-5. Now click on Commit button.
-6. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+1. Star this repository and Follow me on Github [here](https://github.com/Parajulibkrm/).
+   ![](Images/star.png)
+   ![](Images/follow.png)
+2. Navigate to `myname.txt` file
+   ![](Images/open.png)
+3. Edit the file and insert your name.
+   ![](Images/edit.png)
+4. Now click on Propose button.
+5. ![](Images/propose.png)
+6. Create a new pull request.
+   ![](Images/pull%20request.png)
 7. Wait for your Pull Request to be reviewed and merged!
 8. Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)
 
