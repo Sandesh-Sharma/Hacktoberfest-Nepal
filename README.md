@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Parajulibkrm/Hacktoberfest-Nepal/master/1600x840HFB5.png)
+![](https://raw.githubusercontent.com/Parajulibkrm/Hacktoberfest-Nepal/master/hacktoberfestMeetupNepal.png)
 
 <br/>
 
