@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/wajahatkarim3/Hacktoberfest2019/master/AwesomeContributors_cover.jpg)
+![](https://s3.amazonaws.com/organizer.mlh.io/cgkhK9XFBuiyASyp3aMvbKAL?response-content-disposition=inline%3B%20filename%3D%221600x840HFB5.png%22%3B%20filename%2A%3DUTF-8%27%271600x840HFB5.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20201002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201002T101316Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=39fde0b582a22df7d70743b3afb1d848694519f5536c0fe3eca1f190d969a901)
 
 <h1 align="center"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fwajahatkarim3%2FHacktoberfest2019&text=Are%20you%20ready%20for%20%23Hacktoberfest%202019%3F%20Support%20Open%20Source%20in%20October%20and%20earn%20a%20limited%20edition%20T-shirt%21%20by%20contributing%20your%20profile%20in%20Awesome%20Contributors%20by%20@WajahatKarim&hashtags=DigitalOcean%2CThePracticalDev%2Copensource%20">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"/>
