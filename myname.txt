@@ -12,6 +12,9 @@ Hello Ji
 Tanvi
 Vidhi Angrish
 Aaditya Kshetri
+Ashish Khatri
+Asmit Dhakal
+Sadikshya Sharma
 Bigyan Rijal
 Bibek Bhusal
 Pratikshya Poudel
@@ -25,4 +28,5 @@ Maheshwor Acharya
 Saugat Rajbhandari
 Bibek Bhusal
 [Kamiben](https://github.com/kamiben)
+Ekraj Ghimire
 Saugat Rajbhandari
