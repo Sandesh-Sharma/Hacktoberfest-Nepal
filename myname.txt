@@ -12,6 +12,8 @@ Hello Ji
 Tanvi
 Vidhi Angrish
 Aaditya Kshetri
+Bibek Bhusal
+Pratikshya Poudel
 Nabin Bhandari
 Sandip Sapkota
 Rojen Maharjan
@@ -20,4 +22,3 @@ Dhurba Baral
 Shankar Kharel
 Maheshwor Acharya
 Saugat Rajbhandari
-Bibek Bhusal
